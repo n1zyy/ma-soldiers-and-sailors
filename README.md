@@ -4,27 +4,33 @@ In the late 19th century, the Commonwealth of Massachusetts produced a 17-volume
 
 Those tomes appear to be in the public domain (both as a work of the government and as having long exceeded a copyright term), but are frustratingly hard to access. This is my attempt at making it easier.
 
-The 17 volumes are organized by last name. Here is a table showing the distribution:
+The 17 volumes are organized by last name. Here is a table, showing the names covered in each volume, as well
+links to a copy of each volume on the Internet Archive's Open Library ("IA link"), a direct copy of the
+text file duplicated here ("Local text"), and a copy of the PDFs from the State Library of Massachusetts
+("S3 PDF"). The "Local text" .txt files are not intended to stay here permanently.
 
-| Volume | Surname                  | IA link | Local text | S3 PDF |
-| ------ | ------------------------ | ------- | ---------- | ------ |
-|  1 | Aacher&mdash;Bery            | [here][1] | [volume1.txt](text/volume1.txt) | [76.9 MB][pdf01] |
-|  2 | Bese&mdash;Byxbe             | [here][2] | [volume2.txt](text/volume2.txt) | [72.3 MB][pdf02] |
-|  3 | Caal&mdash;Cory              | [here][3] | [volume3.txt](text/volume3.txt) | [71.6 MB][pdf03] |
-|  4 | Cose&mdash;Dryer             | [here][4] | [volume4.txt](text/volume4.txt) | [73.3 MB][pdf04] |
-|  5 | Duarell&mdash;Foys           | [here][5] | [volume5.txt](text/volume5.txt) | [68.4 MB][pdf05] |
-|  6 | Fracer&mdash;Gypson          | [here][6] | [volume6.txt](text/volume6.txt) | [69.8 MB][pdf06] |
-|  7 | Haaoo&mdash;Hixson           | ? | [volume7.txt](text/volume7.txt)         | [66.5 MB][pdf07] |
-|  8 | Hmelen&mdash;Jypson          | ? | [volume8.txt](text/volume8.txt)         | [72.5 MB][pdf08] |
-|  9 | Kable&mdash;Lsubon           | [here][9] | [volume9.txt](text/volume9.txt) | [70.3 MB][pdf09] |
-| 10 | Ltaas&mdash;Mopsy            | [here][10] | [volume10.txt](text/volume10.txt) | [66.7 MB][pdf10] |
-| 11 | Mor&mdash;Pazel             | [here][11] | [volume11.txt](text/volume11.txt) | [77.8 MB][pdf11] |
-| 12 | Pea&mdash;Razey              | [here][12] | [volume12.txt](text/volume12.txt) | [74.1 MB][pdf12] |
-| 13 | Rea&mdash;Seymr              | [here][13] | [volume13.txt](text/volume13.txt) | [76.0 MB][pdf13] |
-| 14 | Sha&mdash;Sthenfield         | [here][14] | [volume14.txt](text/volume14.txt) | [76.4 MB][pdf14] |
-| 15 | Stibbens&mdash;Tozer         | [here][15] | [volume15.txt](text/volume15.txt) | [68.6 MB][pdf15] |
-| 16 | Tracey&mdash;Wheylon         | [here][16] | [volume16.txt](text/volume16.txt) | [74.8 MB][pdf16] |
-| 17 | Whicher&mdash;Zwear/Ztranius | [here][17] | [volume17.txt](text/volume17.txt) | [76.5 MB][pdf17] |
+As a courtesy, I would ask that you don't link directly to the S3 files from other sites, but instead
+make your own copy available. Bandwidth is :money_with_wings:.
+
+| Vol. | Year | Surname                  | IA link | Local text | S3 PDF |
+| ------ | ---- |------------------------ | ------- | ---------- | ------ |
+|  1 | 1896     | Aacher&mdash;Bery            | [here][1] | [volume1.txt](text/volume1.txt) | [76.9 MB][pdf01] |
+|  2 | 1896     | Bese&mdash;Byxbe             | [here][2] | [volume2.txt](text/volume2.txt) | [72.3 MB][pdf02] |
+|  3 | 1897	| Caal&mdash;Cory              | [here][3] | [volume3.txt](text/volume3.txt) | [71.6 MB][pdf03] |
+|  4 | 1898	| Cose&mdash;Dryer             | [here][4] | [volume4.txt](text/volume4.txt) | [73.3 MB][pdf04] |
+|  5 | 1899	| Duarell&mdash;Foys           | [here][5] | [volume5.txt](text/volume5.txt) | [68.4 MB][pdf05] |
+|  6 | 1899	| Fracer&mdash;Gypson          | [here][6] | [volume6.txt](text/volume6.txt) | [69.8 MB][pdf06] |
+|  7 | 1900	| Haaoo&mdash;Hixson           | ? | [volume7.txt](text/volume7.txt)         | [66.5 MB][pdf07] |
+|  8 | 1901	| Hmelen&mdash;Jypson          | ? | [volume8.txt](text/volume8.txt)         | [72.5 MB][pdf08] |
+|  9 | 1902	| Kable&mdash;Lsubon           | [here][9] | [volume9.txt](text/volume9.txt) | [70.3 MB][pdf09] |
+| 10 | 1902	| Ltaas&mdash;Mopsy            | [here][10] | [volume10.txt](text/volume10.txt) | [66.7 MB][pdf10] |
+| 11 | 1903	| Mor&mdash;Pazel             | [here][11] | [volume11.txt](text/volume11.txt) | [77.8 MB][pdf11] |
+| 12 | 1904	| Pea&mdash;Razey              | [here][12] | [volume12.txt](text/volume12.txt) | [74.1 MB][pdf12] |
+| 13 | 1905	| Rea&mdash;Seymr              | [here][13] | [volume13.txt](text/volume13.txt) | [76.0 MB][pdf13] |
+| 14 | 1906	| Sha&mdash;Sthenfield         | [here][14] | [volume14.txt](text/volume14.txt) | [76.4 MB][pdf14] |
+| 15 | 1907	| Stibbens&mdash;Tozer         | [here][15] | [volume15.txt](text/volume15.txt) | [68.6 MB][pdf15] |
+| 16 | 1907	| Tracey&mdash;Wheylon         | [here][16] | [volume16.txt](text/volume16.txt) | [74.8 MB][pdf16] |
+| 17 | 1908	| Whicher&mdash;Zwear/Ztranius | [here][17] | [volume17.txt](text/volume17.txt) | [76.5 MB][pdf17] |
 
 ## Other Sources
 
