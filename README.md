@@ -7,7 +7,7 @@ Those tomes appear to be in the public domain (both as a work of the government 
 The 17 volumes are organized by last name. Here is a table showing the distribution:
 
 | Volume | Surname | IA link | Local text | S3 PDF |
-| ------ | ------- | ------- |
+| ------ | ------- | ------- | ---------- | ------ |
 |  1 | Aacher&mdash;Bery | [here](https://openlibrary.org/books/OL13489927M/Massachusetts_soldiers_and_sailors_of_the_revolutionary_war._Vol._1_AACHER_-_BERY) | [volume1.txt](blob/main/text/volume1.txt) | |
 |  2 | Bese&mdash;Byxbe | [here](https://openlibrary.org/books/OL7145838M/Massachusetts_soldiers_and_sailors_of_the_revoluntionary_war.) | [volume2.txt](blob/main/text/volume2.txt) | |
 |  3 | Caal&mdash;Cory | [here](https://openlibrary.org/books/OL7241622M/Massachusetts_soldiers_and_sailors_of_the_revoluntionary_war.) | [volume3.txt](blob/main/text/volume3.txt) | |
